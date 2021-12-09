@@ -1,0 +1,8 @@
+Role to increse salary: Analyst
+Percentage to increase salary by: 10
+
+Soumalya Programmer 10000.0
+Debaleena Admin 10000.0
+Vaishali Analyst 11000.0
+Rohit Analyst 11000.0
+Tathagata Admin 10000.0
