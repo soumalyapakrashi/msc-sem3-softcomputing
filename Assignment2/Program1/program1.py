@@ -139,6 +139,7 @@ if(__name__ == "__main__"):
                 matrix.append(temp)
     except FileNotFoundError:
         print("File not found. Input file should be named 'input.txt'")
+        exit()
     
     with open("output.txt", "w") as file:
         # Calculate transpose
