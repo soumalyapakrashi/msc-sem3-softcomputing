@@ -1,8 +1,12 @@
+Organization Name: Sandy Shores
 Role to increse salary: Analyst
 Percentage to increase salary by: 10
 
+Clerks with Original Salaries:
 Soumalya Programmer 10000.0
 Debaleena Admin 10000.0
+Tathagata Admin 10000.0
+
+Clerks with Incresed Salaries:
 Vaishali Analyst 11000.0
 Rohit Analyst 11000.0
-Tathagata Admin 10000.0

@@ -21,7 +21,7 @@ class Organization:
         for i in range(len(self.clerks)):
             if(self.clerks[i].clrk_role == role):
                 self.clerks[i].increment_salary(percentage)
-            clerks.append(self.clerks[i])
+                clerks.append(self.clerks[i])
         
         return clerks
     
@@ -54,10 +54,17 @@ if(__name__ == "__main__"):
     # Get clerks with increased salary
     new_salaries = org.calculate_salary(role, percentage)
 
-    # Write the clerks with increased salary to output file
+    # Write the clerks with original and increased salary to output file
     with open("output.txt", "w") as file:
+        file.write("Organization Name: " + org.org_name + "\n")
         file.write("Role to increse salary: " + role + "\n")
         file.write("Percentage to increase salary by: " + str(percentage) + "\n\n")
 
+        file.write("Clerks with Original Salaries:\n")
+        for clerk in org.clerks:
+            if(clerk not in new_salaries):
+                file.write(f"{clerk.clrk_name} {clerk.clrk_role} {str(clerk.clrk_salary)}\n")
+
+        file.write("\nClerks with Incresed Salaries:\n")
         for clerk in new_salaries:
             file.write(f"{clerk.clrk_name} {clerk.clrk_role} {str(clerk.clrk_salary)}\n")
