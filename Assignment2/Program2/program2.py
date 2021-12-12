@@ -65,6 +65,6 @@ if(__name__ == "__main__"):
             if(clerk not in new_salaries):
                 file.write(f"{clerk.clrk_name} {clerk.clrk_role} {str(clerk.clrk_salary)}\n")
 
-        file.write("\nClerks with Incresed Salaries:\n")
+        file.write("\nClerks with Increased Salaries:\n")
         for clerk in new_salaries:
             file.write(f"{clerk.clrk_name} {clerk.clrk_role} {str(clerk.clrk_salary)}\n")

@@ -7,6 +7,6 @@ Soumalya Programmer 10000.0
 Debaleena Admin 10000.0
 Tathagata Admin 10000.0
 
-Clerks with Incresed Salaries:
+Clerks with Increased Salaries:
 Vaishali Analyst 11000.0
 Rohit Analyst 11000.0
