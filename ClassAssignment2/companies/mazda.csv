@@ -1,0 +1,6 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+mazda,hatchback,93.1,159.1,ohc,four,68,30,5195.0,0.03062560153994225
+mazda,hatchback,93.1,159.1,ohc,four,68,31,6095.0,0.026103363412633303
+mazda,hatchback,93.1,159.1,ohc,four,68,31,6795.0,0.023414275202354673
+mazda,hatchback,95.3,169.0,rotor,two,101,17,11845.0,0.014267623469818488
+mazda,sedan,104.9,175.0,ohc,four,72,31,18344.0,0.009539904055822068

@@ -1,0 +1,6 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+nissan,sedan,94.5,165.3,ohc,four,55,45,7099.0,0.023284969714044233
+nissan,sedan,94.5,165.3,ohc,four,69,31,6649.0,0.02486088133553918
+nissan,sedan,94.5,165.3,ohc,four,69,31,6849.0,0.024134910205869473
+nissan,wagon,94.5,170.2,ohc,four,69,31,7349.0,0.023159613552864333
+nissan,sedan,100.4,184.6,ohcv,six,152,19,13499.0,0.013675087043484703

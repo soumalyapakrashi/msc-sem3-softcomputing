@@ -1,0 +1,4 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+alfa-romero,convertible,88.6,168.8,dohc,four,111,21,13495.0,0.012508336420896628
+alfa-romero,convertible,88.6,168.8,dohc,four,111,21,16500.0,0.01023030303030303
+alfa-romero,hatchback,94.5,171.2,ohcv,six,154,19,16500.0,0.010375757575757575

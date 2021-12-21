@@ -1,0 +1,5 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+audi,sedan,99.8,176.6,ohc,four,102,24,13950.0,0.012659498207885304
+audi,sedan,99.4,176.6,ohc,five,115,18,17450.0,0.010120343839541548
+audi,sedan,99.8,177.3,ohc,five,110,19,15250.0,0.011626229508196723
+audi,wagon,105.8,192.7,ohc,five,110,19,18920.0,0.010184989429175475

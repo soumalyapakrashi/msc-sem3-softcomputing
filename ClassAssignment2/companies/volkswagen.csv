@@ -1,0 +1,5 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+volkswagen,sedan,97.3,171.7,ohc,four,52,37,7775.0,0.02208360128617363
+volkswagen,sedan,97.3,171.7,ohc,four,85,27,7975.0,0.021529780564263322
+volkswagen,sedan,97.3,171.7,ohc,four,52,37,7995.0,0.021475922451532205
+volkswagen,sedan,97.3,171.7,ohc,four,100,26,9995.0,0.01717858929464732

@@ -1,0 +1,4 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+honda,wagon,96.5,157.1,ohc,four,76,30,7295.0,0.021535298149417407
+honda,sedan,96.5,175.4,ohc,four,101,24,12945.0,0.013549633062958671
+honda,sedan,96.5,169.1,ohc,four,100,25,10345.0,0.016346060898985017

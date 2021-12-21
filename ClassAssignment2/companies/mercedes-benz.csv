@@ -1,0 +1,5 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+mercedes-benz,sedan,110.0,190.9,ohc,five,123,22,25552.0,0.007471039448966813
+mercedes-benz,wagon,110.0,190.9,ohc,five,123,22,28248.0,0.006758000566411781
+mercedes-benz,sedan,120.9,208.1,ohcv,eight,184,14,40960.0,0.00508056640625
+mercedes-benz,hardtop,112.0,199.2,ohcv,eight,184,14,45400.0,0.004387665198237885

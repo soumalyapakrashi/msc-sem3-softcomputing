@@ -1,0 +1,5 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+mitsubishi,hatchback,93.7,157.3,ohc,four,68,37,5389.0,0.029189088884765263
+mitsubishi,hatchback,93.7,157.3,ohc,four,68,31,6189.0,0.02541606075294878
+mitsubishi,sedan,96.3,172.4,ohc,four,88,25,6989.0,0.02466733438260123
+mitsubishi,sedan,96.3,172.4,ohc,four,88,25,8189.0,0.021052631578947368

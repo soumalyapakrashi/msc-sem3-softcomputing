@@ -1,0 +1,4 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+jaguar,sedan,113.0,199.6,dohc,six,176,15,32250.0,0.006189147286821705
+jaguar,sedan,113.0,199.6,dohc,six,176,15,35550.0,0.005614627285513362
+jaguar,sedan,102.0,191.7,ohcv,twelve,262,13,36000.0,0.005325

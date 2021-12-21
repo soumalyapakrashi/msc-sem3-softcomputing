@@ -1,0 +1,7 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+bmw,sedan,101.2,176.8,ohc,four,101,23,16430.0,0.01076080340839927
+bmw,sedan,101.2,176.8,ohc,four,101,23,16925.0,0.010446085672082718
+bmw,sedan,101.2,176.8,ohc,six,121,21,20970.0,0.008431092036242252
+bmw,sedan,103.5,189.0,ohc,six,182,16,30760.0,0.006144343302990897
+bmw,sedan,103.5,193.8,ohc,six,182,16,41315.0,0.004690790269877769
+bmw,sedan,110.0,197.0,ohc,six,182,15,36880.0,0.005341648590021692

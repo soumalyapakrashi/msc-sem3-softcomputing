@@ -1,0 +1,8 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+toyota,hatchback,95.7,158.7,ohc,four,62,35,5348.0,0.029674644727000744
+toyota,hatchback,95.7,158.7,ohc,four,62,31,6338.0,0.025039444619753864
+toyota,hatchback,95.7,158.7,ohc,four,62,31,6488.0,0.02446054254007398
+toyota,wagon,95.7,169.7,ohc,four,62,31,6918.0,0.024530211043654233
+toyota,wagon,95.7,169.7,ohc,four,62,27,7898.0,0.021486452266396554
+toyota,wagon,95.7,169.7,ohc,four,62,27,8778.0,0.01933242196400091
+toyota,wagon,104.5,187.8,dohc,six,156,19,15750.0,0.011923809523809524

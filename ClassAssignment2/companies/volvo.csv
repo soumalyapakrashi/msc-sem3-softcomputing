@@ -1,0 +1,3 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+volvo,sedan,104.3,188.8,ohc,four,114,23,12940.0,0.014590417310664607
+volvo,wagon,104.3,188.8,ohc,four,114,23,13415.0,0.01407379798732762

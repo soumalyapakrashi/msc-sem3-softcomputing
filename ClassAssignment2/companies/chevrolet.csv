@@ -1,0 +1,4 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+chevrolet,hatchback,88.4,141.1,l,three,48,47,5151.0,0.02739273927392739
+chevrolet,hatchback,94.5,155.9,ohc,four,70,38,6295.0,0.02476568705321684
+chevrolet,sedan,94.5,158.8,ohc,four,70,38,6575.0,0.024152091254752855

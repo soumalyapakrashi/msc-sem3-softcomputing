@@ -1,0 +1,4 @@
+company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price,LoP
+porsche,hardtop,89.5,168.9,ohcf,six,207,17,34028.0,0.004963559421652756
+porsche,convertible,89.5,168.9,ohcf,six,207,17,37028.0,0.004561412984768283
+porsche,hatchback,98.4,175.7,dohcv,eight,288,17,,
