@@ -1,6 +1,6 @@
 # Program 2
 
-Create a class `Circle` with attributes:
+Create a class `Clerk` with attributes:
 * clrk id
 * clrk name
 * clrk role
